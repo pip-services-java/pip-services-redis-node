@@ -1,0 +1,11 @@
+/lib
+/obj
+genKey
+/bin
+/dist
+/.idea
+/config/config.json
+/data/dummies.json
+settings.xml
+gpg_public.key
+gpg_private.key

@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"org.pipservices3.redis.build"},{"l":"org.pipservices3.redis.cache"},{"l":"org.pipservices3.redis.lock"}];updateSearchResults();
